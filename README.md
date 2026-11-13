@@ -65,4 +65,4 @@ nothing.
 - Key rotation, if it ever happens, will be announced here by a new SSH-signed
   commit, with the old key retained and marked retired (not deleted) so historical
   signatures remain verifiable.
-- Correctover — AI Reliability(tm). Contact: wangguigui@correctover.com
+- Correctover. Contact: wangguigui@correctover.com
