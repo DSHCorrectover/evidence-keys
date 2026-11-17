@@ -1,5 +1,7 @@
 # Correctover Evidence Keys
 
+[**Commercial verification engagements — USD 8,000–15,000, court-ready dossier**](https://dshcorrectover.github.io/correctover-recovery-admission/services.html) · [**Independent audit & conformance**](https://dshcorrectover.github.io/correctover-recovery-admission/services.html)
+
 This repository is the **public trust root** for cryptographic artifacts signed
 by Correctover in on-chain investigations and evidence packages.
 
